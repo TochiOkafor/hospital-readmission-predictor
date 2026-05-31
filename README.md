@@ -100,6 +100,9 @@ Applied **SHAP (SHapley Additive exPlanations)** to the XGBoost model to identif
 2. Run all cells in order
 3. All required libraries are installed within the notebook via `pip`
 
+## 📓 View Notebook
+[Click here to view the full notebook](https://nbviewer.org/github/TochiOkafor/hospital-readmission-predictor/blob/main/notebooks/hospital_readmission_predictor.ipynb)
+
 **Dependencies:**
 
 - pandas
